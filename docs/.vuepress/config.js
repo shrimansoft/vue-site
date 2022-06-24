@@ -3,5 +3,5 @@ module.exports = {
   title: 'Hello, VuePress!',
   description: 'This is my first VuePress site',
   base: '/vue-site/',
-  dest: '${sourceDir}/../dist'
+  dest: '${sourceDir}/../dist/docs'
 }
