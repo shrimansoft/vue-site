@@ -1,0 +1,15 @@
+{
+  "name": "vue-site",
+  "version": "1.0.0",
+  "description": "my pertional site",
+  "main": "index.js",
+  "author": "shrimansoft <shrimansoft@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^2.0.0-beta.48"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  }
+}
